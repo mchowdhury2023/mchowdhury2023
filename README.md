@@ -15,7 +15,6 @@ I am driven by the evolution of technology and how it improves our lives, and I 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mchowdhury2023&theme=buefy-dark" alt="GitHub Streak" /></a>
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={mchowdhury2023}&theme={theme_name}&exclude={exclude}
 
 
 <!--
