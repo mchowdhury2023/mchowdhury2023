@@ -15,6 +15,8 @@ I am driven by the evolution of technology and how it improves our lives, and I 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mchowdhury2023&theme=buefy-dark" alt="GitHub Streak" /></a>
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={mchowdhury2023}&theme={theme_name}&exclude={exclude}
+
 
 <!--
 **mchowdhury2023/mchowdhury2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,11 +32,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: roney.sust@gmail.com
 
-
-**Pinned Projects**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mchowdhury2023&repo=your-daily-news)](https://github.com/mchowdhury2023/your-daily-news)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mchowdhury2023&repo=home-service-management)](https://github.com/mchowdhury2023/home-service-management)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mchowdhury2023&repo=car-shop-client-side)](https://github.com/mchowdhury2023/car-shop-client-side)
 
 
