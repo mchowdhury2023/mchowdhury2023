@@ -8,13 +8,33 @@
 I am driven by the evolution of technology and how it improves our lives, and I am committed to making a positive impact through my work.
 
 **My toolkits:**
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,react,java,php,css,express,mongodb)](https://skillicons.dev)
+</div>
 
-**Current Stats**
-
+**Current Stats:**
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mchowdhury2023&theme=buefy-dark" alt="GitHub Streak" /></a>
+</div>
 
+<div style="height: 30px;"></div>
+
+![My Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mchowdhury2023&theme=tokyonight)
+
+
+<table>
+  <tr>
+    <td>
+
+![My Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mchowdhury2023&theme=tokyonight)
+  </td>
+    <td>
+
+![My Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mchowdhury2023&theme=tokyonight)
+  </td>
+  </tr>
+</table>
 
 
 
