@@ -20,6 +20,8 @@ I am driven by the evolution of technology and how it improves our lives, and I 
 
 <div style="height: 30px;"></div>
 
+<div align="center">
+
 ![My Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mchowdhury2023&theme=tokyonight)
 
 
@@ -35,7 +37,7 @@ I am driven by the evolution of technology and how it improves our lives, and I 
   </td>
   </tr>
 </table>
-
+</div>
 
 
 <!--
